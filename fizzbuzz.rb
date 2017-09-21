@@ -1,5 +1,5 @@
-def fizzbuzz(int)
-  if int % 3 == 0
+def fizzbuzz
+  if 0*3 == 0
     puts "Fizz"
 
 end
