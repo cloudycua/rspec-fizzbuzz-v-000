@@ -6,5 +6,5 @@ def fizzbuzz(input)
   elsif input % 15 == 0
     puts "FizzBuzz"
   else
-    puts nil
+    puts "nil"
 end
